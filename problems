@@ -1,1 +1,14 @@
-
+cs: code signal(code fight)
+cs1 write a function that returns the sum of two numbers
+input: 1, 2
+output: 3
+cs2 given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
+input: 1905
+output:20
+cs3 Given the string, check if it is a palindrome.
+input: aabaa
+output: true
+cs4Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
+input: [3,6,-2,-5,7,3]
+output: 21
+cs5 
